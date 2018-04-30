@@ -1,1 +1,1 @@
-# MATLAB implementation of block compressed-sensing reconstruction
+# MATLAB Implementation of Accerlerated Block Compressed Sensing
